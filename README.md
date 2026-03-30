@@ -104,7 +104,7 @@ FirebaseSecond/
 ├── Support/
 │   ├── FirebaseSecondApp.swift    # @main entry point
 │   ├── Assets.xcassets
-│   └── GoogleService-Info.plist  # ⚠️ Do not commit!
+│   └── GoogleService-Info.plist  # Not Committed
 └── RootView.swift
 ```
 
