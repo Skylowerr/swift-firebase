@@ -1,0 +1,24 @@
+# 🔴 Firebase (ÇOK ÖNEMLİ)
+GoogleService-Info.plist
+
+# 🔴 Xcode
+DerivedData/
+build/
+
+# 🔴 User data
+xcuserdata/
+*.xcuserstate
+
+# 🔴 Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# 🔴 macOS
+.DS_Store
+
+# 🔴 Logs
+*.log
+
+# 🔴 Archives
+*.xcarchive
