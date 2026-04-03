@@ -171,7 +171,3 @@ allow read, write: if request.auth != null;
 → Try **Xcode → File → Packages → Reset Package Caches**.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
