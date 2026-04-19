@@ -10,7 +10,7 @@ import Observation // Yeni framework
 
 @Observable
 @MainActor
-final class SettingsViewModel{ //MARK: : ObservableObject gerekebilir
+final class SettingsViewModel{
     
     var authProviders : [AuthProviderOptions] = []
     var authUser : AuthDataResultModel? = nil
