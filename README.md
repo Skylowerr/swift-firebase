@@ -50,7 +50,7 @@
 
 ```bash
 git clone https://github.com/Skylowerr/FirebaseSecond.git
-cd FirebaseSecond
+cd swift-firebase
 ```
 
 ### 2. Open in Xcode
