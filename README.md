@@ -49,7 +49,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/FirebaseSecond.git
+git clone https://github.com/Skylowerr/FirebaseSecond.git
 cd FirebaseSecond
 ```
 
